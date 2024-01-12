@@ -1,8 +1,6 @@
 package routes
 
 import (
-	"fmt"
-
 	"github.com/Anjasfedo/go-book-store/pkg/controllers"
 	"github.com/gorilla/mux"
 )
